@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_exit.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_booklet.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_booklet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about_us.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_help.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_contact.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_exit2.xml",
+        "source": "C:\\Users\\Owner\\Desktop\\GeoKnow\\app\\src\\main\\res\\layout\\fragment_exit2.xml"
+    }
+]
